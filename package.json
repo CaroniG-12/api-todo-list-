@@ -1,0 +1,26 @@
+
+{
+  "name": "api-todo-list-",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto da disciplina de lab de languagens de programação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luhenrique06/api-todo-list-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luhenrique06/api-todo-list-/issues"
+  },
+  "homepage": "https://github.com/luhenrique06/api-todo-list-#readme",
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^5.2.1"
+  }
+}
